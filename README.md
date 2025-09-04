@@ -25,7 +25,6 @@ Modelleme için hazır veri seti oluşturma adımları uygulanmıştır.
 
 Kullanılan kütüphaneler
 -
-Gereksinimler
 
 Python 3.10+
 Pandas, NumPy
